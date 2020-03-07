@@ -20,8 +20,4 @@ From 123
 
 To 456
 
-<<<<<<< HEAD
 Done Done !!!!!
-=======
-Not Done !!!!!
->>>>>>> f3e71233978287880d1557cb3f5ecc4726b09ce1
